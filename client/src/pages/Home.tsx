@@ -73,7 +73,15 @@ export default function Home() {
               {/* About Section */}
               <motion.section variants={fadeInUp} className="mb-12 md:mb-16">
                 <p className="text-base md:text-[17px] leading-[1.8] text-foreground/90">
-                  Hiro is an entrepreneur and investor working at the intersection of food, technology, and cross-cultural innovation between Japan and the US.
+                  <a
+                    href="https://www.linkedin.com/in/hirohrm/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline underline-offset-2 hover:text-primary transition-colors"
+                  >
+                    Hiro
+                  </a>{" "}
+                  is an entrepreneur and investor working at the intersection of food, technology, and cross-cultural innovation between Japan and the US.
                 </p>
                 
                 <p className="text-base md:text-[17px] leading-[1.8] text-foreground/90 mt-5">
