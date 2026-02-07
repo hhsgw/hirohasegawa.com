@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1a1a1a"/>
+  
+  <!-- HH - Side by side, modern geometric design -->
+  <!-- First H -->
+  <path d="M12 20 L12 44 L16 44 L16 34 L22 34 L22 44 L26 44 L26 20 L22 20 L22 30 L16 30 L16 20 Z" fill="#ffffff"/>
+  
+  <!-- Second H -->
+  <path d="M38 20 L38 44 L42 44 L42 34 L48 34 L48 44 L52 44 L52 20 L48 20 L48 30 L42 30 L42 20 Z" fill="#ffffff"/>
+</svg>

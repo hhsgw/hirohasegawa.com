@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1a1a1a"/>
+  
+  <!-- HH - Stacked, modern geometric design -->
+  <!-- First H -->
+  <path d="M14 18 L14 32 L18 32 L18 27 L26 27 L26 32 L30 32 L30 18 L26 18 L26 23 L18 23 L18 18 Z" fill="#ffffff"/>
+  
+  <!-- Second H -->
+  <path d="M34 32 L34 46 L38 46 L38 41 L46 41 L46 46 L50 46 L50 32 L46 32 L46 37 L38 37 L38 32 Z" fill="#ffffff"/>
+</svg>
